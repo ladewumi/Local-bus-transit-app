@@ -1,17 +1,31 @@
-# Hi, I'm Oluwademilade Adewumi 👋
+# Transit App Prototype
 
-UI/UX Designer based in Toronto, ON, with a hands-on, Figma-driven design process spanning wireframes, prototypes, and scalable design systems for web and mobile products. I own the full design lifecycle — user research, usability testing, and iterative refinement based on feedback and data — while working closely with founders, engineers, and product teams.
+A React-based prototype for a mobile transit app scoped to Toronto's TTC system, built as part of an early-stage transit startup aimed at simplifying daily commuting in the Ontario/Toronto market.
 
-### What I work on
-- 🚌 **Routez** — a city-wide bus transit app for everyday commuters. I design the user journeys, wireframes, and production-ready UI, and partner directly with city officials, engineers, and QA to ship features.
-- ♻️ **Pakam (XRUBICON Solutions)** — designed and prototyped a suite of products for a recycling platform: admin dashboard, company dashboard, household app, and recycler app.
-- 🗑️ **Lagos Waste Management Authority (LAWMA)** — redesigned and prototyped both the mobile app and website.
+## What it does
 
-### Tools & focus areas
-`Figma` · `Adobe XD` · `Miro` · Usability Testing & User Research · Accessibility (WCAG) · Information Architecture · User Flows & Journey Mapping · Cross-functional collaboration (Agile/Scrum)
+- **Presto card functionality** — mock balance and transaction handling for TTC's fare card system
+- **Live bus tracking** — real-time-style tracking of bus locations along a route
+- **Trip planning** — route lookup and journey planning between stops
+- **AI-powered features** (added in a later iteration) — integrated the Claude API to generate personalized commute tips, surface service alerts, and suggest AI-generated route options
 
-### Currently
-Building an early-stage mobile transit app for the Ontario/Toronto market — see pinned repos for a look at the prototype work.
+## Why I built this
 
-### Let's connect
-📧 adewumioluwademilade98@gmail.com · 📍 Toronto, ON · [LinkedIn](#) *(add your LinkedIn URL here)*
+I'm the founder of an early-stage transit app aimed at Toronto commuters, and this prototype is the design-to-code proof of concept — it let me test interaction patterns (like how live tracking and trip planning should feel) before handing polished specs to engineering, and to explore how an AI layer could make the experience feel more personal than a standard transit app.
+
+## My role
+
+I led the design (user journeys, wireframes, high-fidelity UI) and built this prototype myself to validate those decisions in a working interface, rather than static mockups alone.
+
+## Tech
+
+- React
+- Claude API (personalization, alerts, route suggestions)
+
+## Status
+
+Early-stage / actively evolving as the business is being structured (Ontario incorporation, co-founder equity, and a stakeholder pitch deck are in progress alongside this).
+
+## Screenshots
+
+*(Add a screenshot or short screen-recording GIF of the prototype here — this is the single highest-impact addition for anyone reviewing the repo.)*
