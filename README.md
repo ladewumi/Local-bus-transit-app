@@ -26,6 +26,6 @@ I led the design (user journeys, wireframes, high-fidelity UI) and built this pr
 
 Early-stage / actively evolving as the business is being structured (Ontario incorporation, co-founder equity, and a stakeholder pitch deck are in progress alongside this).
 
-## Screenshots
+## Preview
 
-*(Add a screenshot or short screen-recording GIF of the prototype here — this is the single highest-impact addition for anyone reviewing the repo.)*
+<img width="6356" height="2048" alt="Hero" src="https://github.com/user-attachments/assets/b259b16f-61c5-422d-99a4-6d70f4bdef47" />
